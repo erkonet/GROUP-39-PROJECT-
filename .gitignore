@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+*.db
+.idea/
+.gradle/
+local.properties
+**/build/
